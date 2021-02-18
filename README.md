@@ -1,2 +1,2 @@
-# starwars2
-starwars2
+# starwarsapp
+Starwars app to deploy to Heroku
